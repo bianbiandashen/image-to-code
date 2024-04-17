@@ -40,5 +40,6 @@
     "prettier": "^3.1.1",
     "tailwindcss": "^3.3.0",
     "typescript": "^5.3.3"
-  }
+  },
+  "repository": "git@github.com:bianbiandashen/image-to-code.git"
 }

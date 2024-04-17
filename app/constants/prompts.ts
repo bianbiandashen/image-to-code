@@ -1,4 +1,6 @@
-export const USER_PROMPT = `Generate code for a web page that looks exactly like this.`
+export const USER_PROMPT = '请帮我基于图片生成一个md格式的若干图片和总结'
+
+export const SPEECH_PROMPT = `请帮我基于图片生成一个md格式的若干图片和总结`
 
 export const SYSTEM_PROMPT = `You are an expert React/Tailwind developer
 You take screenshots of a reference web page from the user, and then build single page apps 
